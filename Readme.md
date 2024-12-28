@@ -23,7 +23,7 @@ Kundali Bhagya is an AI-powered astrology platform inspired by the popular Astro
 
 ---
 
-## Technology Stack
+## Technology Stack (Not finalized yet)
 
 ### Frontend
 
